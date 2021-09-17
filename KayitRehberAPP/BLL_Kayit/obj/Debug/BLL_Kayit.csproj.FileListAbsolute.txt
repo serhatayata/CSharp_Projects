@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\bin\Debug\BLL_Kayit.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\bin\Debug\BLL_Kayit.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\bin\Debug\DAL_Kayit.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\bin\Debug\DAL_Kayit.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\bin\Debug\DAL_Kayit.dll.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\obj\Debug\BLL_Kayit.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\obj\Debug\BLL_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\obj\Debug\BLL_Kayit.csproj.CopyComplete
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\obj\Debug\BLL_Kayit.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\BLL_Kayit\obj\Debug\BLL_Kayit.pdb

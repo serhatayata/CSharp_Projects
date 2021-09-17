@@ -1,0 +1,7 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\bin\Debug\DAL_Kayit.dll.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\bin\Debug\DAL_Kayit.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\bin\Debug\DAL_Kayit.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\obj\Debug\DAL_Kayit.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\obj\Debug\DAL_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\obj\Debug\DAL_Kayit.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KayitRehberAPP\DAL_Kayit\obj\Debug\DAL_Kayit.pdb

@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\bin\Debug\Hareket_SorgulamaAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\bin\Debug\Hareket_SorgulamaAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\bin\Debug\Hareket_SorgulamaAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Form1.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Hareket.resources

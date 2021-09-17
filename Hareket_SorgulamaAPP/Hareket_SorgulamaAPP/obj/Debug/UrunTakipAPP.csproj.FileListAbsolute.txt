@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\bin\Debug\Hareket_SorgulamaAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\bin\Debug\Hareket_SorgulamaAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\bin\Debug\Hareket_SorgulamaAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.AnaEkran.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Hareket.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\UrunTakipAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\UrunTakipAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\UrunTakipAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Urun.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Musteri.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\Hareket_SorgulamaAPP\Hareket_SorgulamaAPP\obj\Debug\Hareket_SorgulamaAPP.Personel.resources

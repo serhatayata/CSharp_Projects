@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\bin\Debug\KisiselFilmArsivAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\bin\Debug\KisiselFilmArsivAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\bin\Debug\KisiselFilmArsivAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.Form1.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KisiselFilmArsivAPP\KisiselFilmArsivAPP\obj\Debug\KisiselFilmArsivAPP.pdb

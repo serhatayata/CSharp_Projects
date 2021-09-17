@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\bin\Debug\MiniSQL-APP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\bin\Debug\MiniSQL-APP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\bin\Debug\MiniSQL-APP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL_APP.Form1.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL_APP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL-APP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL-APP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL-APP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL-APP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MiniSQL-APP\MiniSQL-APP\obj\Debug\MiniSQL-APP.csproj.AssemblyReference.cache

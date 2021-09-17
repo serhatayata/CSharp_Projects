@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.FrmGiris.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.Grafikler.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\bin\Debug\SecimIstatistikApp.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\bin\Debug\SecimIstatistikApp.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\bin\Debug\SecimIstatistikApp.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\SecimIstatistikApp\SecimIstatistikApp\obj\Debug\SecimIstatistikApp.pdb

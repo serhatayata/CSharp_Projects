@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="KayitDataClasses">
+  <DataContextMoniker Name="/KayitDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b28a5068-ff1b-4fb4-b5ee-f7ce20142d1b" absoluteBounds="3.875, 1.375, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/KayitDataClassesDataContext/KISILER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60bf9314-f9c2-43d3-8318-67965ff05ee3" absoluteBounds="3.89, 1.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

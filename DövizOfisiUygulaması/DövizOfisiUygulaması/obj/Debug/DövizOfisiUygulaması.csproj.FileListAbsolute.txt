@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\bin\Debug\DövizOfisiUygulaması.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\bin\Debug\DövizOfisiUygulaması.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\bin\Debug\DövizOfisiUygulaması.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.Form1.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\DövizOfisiUygulaması\DövizOfisiUygulaması\obj\Debug\DövizOfisiUygulaması.SQL_Tables.resources

@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\bin\Debug\KelimeOgrenAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\bin\Debug\KelimeOgrenAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\bin\Debug\KelimeOgrenAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.GirisSayfasi.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\obj\Debug\KelimeOgrenAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\KelimeOgrenAPP\KelimeOgrenAPP\bin\Debug\dbSozluk.accdb

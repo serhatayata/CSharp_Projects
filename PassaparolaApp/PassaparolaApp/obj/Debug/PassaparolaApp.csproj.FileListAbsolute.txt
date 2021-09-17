@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\bin\Debug\PassaparolaApp.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\bin\Debug\PassaparolaApp.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\bin\Debug\PassaparolaApp.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.Form1.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\PassaparolaApp\PassaparolaApp\obj\Debug\PassaparolaApp.pdb

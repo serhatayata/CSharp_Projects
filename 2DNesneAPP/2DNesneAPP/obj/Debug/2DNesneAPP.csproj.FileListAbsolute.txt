@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\bin\Debug\2DNesneAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\bin\Debug\2DNesneAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\bin\Debug\2DNesneAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\2DNesneAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\_2DNesneAPP.Form1.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\_2DNesneAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\2DNesneAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\2DNesneAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\2DNesneAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\2DNesneAPP\2DNesneAPP\obj\Debug\2DNesneAPP.pdb

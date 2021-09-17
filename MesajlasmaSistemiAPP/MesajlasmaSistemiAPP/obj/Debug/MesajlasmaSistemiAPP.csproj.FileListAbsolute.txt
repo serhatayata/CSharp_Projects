@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\MesajlasmaSistemiAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\MesajlasmaSistemiAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\MesajlasmaSistemiAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\BLL.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\DAL.dll
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\BLL.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\DAL.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\bin\Debug\DAL.dll.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.Login.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.MesajEkrani.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.csproj.CopyComplete
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\MesajlasmaSistemiAPP\MesajlasmaSistemiAPP\obj\Debug\MesajlasmaSistemiAPP.pdb
