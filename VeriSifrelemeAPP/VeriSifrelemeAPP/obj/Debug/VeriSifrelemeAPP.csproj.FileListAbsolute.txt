@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\bin\Debug\VeriSifrelemeAPP.exe.config
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\bin\Debug\VeriSifrelemeAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\bin\Debug\VeriSifrelemeAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.Properties.Resources.resources
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.exe
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.pdb
+C:\Users\Asus\Desktop\Yazılım\C#\C#_Projeler\VeriSifrelemeAPP\VeriSifrelemeAPP\obj\Debug\VeriSifrelemeAPP.MainPage.resources
